@@ -2,8 +2,8 @@
 title: "About me"
 ---
 
-## Lene Munk 
-## age: 35 years 
-## Egå 
+Lene Munk 
+age: 35 years 
+Egå 
 
-Say more about you here.
+Say more about you here. 
